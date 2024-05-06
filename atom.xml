@@ -6,7 +6,7 @@
   <link href="https://cwnudog.github.io/atom.xml" rel="self"/>
   
   <link href="https://cwnudog.github.io/"/>
-  <updated>2024-04-07T06:34:44.006Z</updated>
+  <updated>2024-05-06T08:18:48.902Z</updated>
   <id>https://cwnudog.github.io/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://cwnudog.github.io/undefined/4a17b156.html"/>
-    <id>https://cwnudog.github.io/undefined/4a17b156.html</id>
-    <published>2024-04-06T13:37:22.046Z</published>
-    <updated>2024-04-07T06:34:44.006Z</updated>
+    <title></title>
+    <link href="https://cwnudog.github.io/undefined/0.html"/>
+    <id>https://cwnudog.github.io/undefined/0.html</id>
+    <published>2024-05-06T07:32:17.071Z</published>
+    <updated>2024-05-06T08:18:48.902Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="嘉立创"><a href="#嘉立创" class="headerlink" title="嘉立创"></a>嘉立创</h1><h2 id="立创EDA："><a href="#立创EDA：" class="headerlink" title="立创EDA："></a>立创EDA：</h2><p>在线平台可以自行使用：在线PCB编译器</p><ul><li>[ ] 标准版—-一般够用</li><li>[ ] 专业版——日常够用</li></ul><p>都是为了每月“白嫖”嘉立创每月每个账号两次打样的免费优惠卷。</p><h2 id="立创商城："><a href="#立创商城：" class="headerlink" title="立创商城："></a>立创商城：</h2><p>立创商城每天都有品牌优惠卷在赠送（16-15），但是苦于没有邮费减免卷、无法正确立刻找到自己需要的相关器件，故此罗列一些品牌优惠卷能够购买的相关的元器件，便于各位大佬能够及时找到合适的品牌优惠卷。（2024年5月6日有效，不保证后期是否有效）</p><p><img src="C:\Users\DOG\AppData\Roaming\Typora\typora-user-images\image-20240506153820077.png" alt="image-20240506153820077"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h1 id=&quot;嘉立创&quot;&gt;&lt;a href=&quot;#嘉立创&quot; class=&quot;headerlink&quot; title=&quot;嘉立创&quot;&gt;&lt;/a&gt;嘉立创&lt;/h1&gt;&lt;h2 id=&quot;立创EDA：&quot;&gt;&lt;a href=&quot;#立创EDA：&quot; class=&quot;headerlink&quot; title=&quot;立创EDA：&quot;&gt;&lt;</summary>
       
     
     
